@@ -1,7 +1,7 @@
 package backend;
 
 public abstract class AbstractUser {
-    protected String username;
+    public String username;
 
     public AbstractUser(String username) {
         this.username = username;

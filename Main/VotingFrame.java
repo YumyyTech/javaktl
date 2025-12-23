@@ -1,6 +1,12 @@
-import backend.;
+package Main;
+import backend.*;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
+
+import ChartPanel;
+import backend.Poll;
+import backend.Voter;
+
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
